@@ -8,7 +8,7 @@ pipeline {
 
     environment {
         TOOL_VENV = '/opt/jenkins-tools/venv'
-        EMAIL_TO = 'YOUR_EMAIL@example.com'
+        EMAIL_TO = 'adni8025@colorado.edu'
     }
 
     stages {
