@@ -1,0 +1,6 @@
+Router,Mgmt IP,Username,Password,Hostname,Loopback Name,Loopback IP,Loopback Subnet,Wildcard,Network,OSPF Area
+R1,198.51.100.11,lab,lab123,Router1,Loopback99,10.1.1.1,255.255.255.0,0.0.0.255,10.1.1.0,0
+R2,198.51.100.12,lab,lab123,Router2,Loopback99,10.1.2.1,255.255.255.0,0.0.0.255,10.1.2.0,0
+R3,198.51.100.13,lab,lab123,Router3,Loopback99,10.1.3.1,255.255.255.0,0.0.0.255,10.1.3.0,0
+R4,198.51.100.14,lab,lab123,Router4,Loopback99,10.1.4.1,255.255.255.0,0.0.0.255,10.1.4.0,0
+R5,198.51.100.15,lab,lab123,Router5,Loopback99,10.1.5.1,255.255.255.0,0.0.0.255,10.1.5.0,0
